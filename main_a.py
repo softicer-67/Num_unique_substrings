@@ -7,8 +7,6 @@ def func(alphabet, min_len, max_len):
         yield from map(joiner, permutations(alphabet, idx))
 
 
-txt = 'gfg'
-
 d = {
     'Шесть': 6,
     'Семь': 7,
@@ -17,9 +15,10 @@ d = {
     'Десять': 10,
 }
 
+txt = 'gfg'
 res = func(txt, 0, 3)
-res = set(res)
 
+res = set(res)
 length = ''
 
 for k, v in d.items():
