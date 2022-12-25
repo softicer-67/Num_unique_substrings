@@ -1,9 +1,9 @@
 > ### Number of unique substrings with permutations
-        :snake:
+:snake:
         Строка: gfg
 
-        :snake:
+:snake:
         Результат: 9
 
-        :snake:
+:snake:
         Девять различных подстрок: {'', 'g', 'gfg', 'ggf', 'fgg', 'gf', 'gg', 'fg', 'f'}
