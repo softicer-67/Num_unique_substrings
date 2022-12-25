@@ -8,8 +8,6 @@ def func(alphabet, min_len, max_len):
 
 
 txt = 'gfg'
-result = []
-txt = list(txt)
 
 d = {
     'Шесть': 6,
