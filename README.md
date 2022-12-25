@@ -1,4 +1,4 @@
-### Num_unique_substrings
+### Number of unique substrings with permutations
 :snake:
 Строка: gfg
 
